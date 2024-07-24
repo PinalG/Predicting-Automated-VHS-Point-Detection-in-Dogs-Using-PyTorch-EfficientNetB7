@@ -1,0 +1,1 @@
+# Predicting-Automated-VHS-Point-Detection-in-Dogs-Using-PyTorch-EfficientNetB7
