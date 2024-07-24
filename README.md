@@ -1,1 +1,3 @@
 # Predicting-Automated-VHS-Point-Detection-in-Dogs-Using-PyTorch-EfficientNetB7
+
+This paper proposes a novel approach for automated vertebral heart size point detection in dogs using a PyTorch EfficientNetB7 object detection model. Our model leverages advanced deep learning techniques to process dog heart X-ray images, aiming to provide reliable and accurate diagnostic support for clinicians. We present the detailed architecture of our model, the dataset preparation, and the training process. Furthermore, we evaluate the model's performance through extensive experiments, demonstrating its potential to bridge the gap between deep learning methods and clinical applications in veterinary medicine.
